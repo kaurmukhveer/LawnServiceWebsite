@@ -27,7 +27,7 @@ function Home() {
       </section>
 
       <section className="services">
-        <h2>Our Services</h2>
+        <h2>Lawn Care Services</h2>
 
         <div className="service-grid">
           <div className="service-card">
